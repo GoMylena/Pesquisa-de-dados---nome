@@ -1,0 +1,13 @@
+h1{align-items: center;
+	text-align: center;
+	width: 40vw;
+	height: 10vh;
+	background-color: #836FFF;
+	color: white;
+	border: 5px solid white;
+	margin: auto;	
+}
+body{
+	background-color: SkyBlue;
+
+}
